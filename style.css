@@ -165,3 +165,42 @@ body {
         transform: translateY(-20px);
     }
 }
+
+
+/* Descrição do Podcast */
+.podcast-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #444;
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto 20px;
+}
+
+/* Estilo para o cabeçalho */
+.header-content h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+/* Estilo para o subtítulo */
+.subtitle {
+    font-size: 1.3rem;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+/* Botões */
+.btn-lg {
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+}
+
+/* Rodapé */
+.footer-container {
+    background-color: #2b5876;
+    color: #ffffff;
+    font-size: 0.9rem;
+}
